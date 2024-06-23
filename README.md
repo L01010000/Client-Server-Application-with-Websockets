@@ -2,7 +2,7 @@
 
 A WebSocket client-server application in Python demonstrating real-time bidirectional communication between a client (laptop) and a server (Raspberry Pi).
 
-<img src="https://github.com/L01010000/Client-Server-Application-with-Websockets/blob/main/poc.png" width="650px" />
+<img src="https://github.com/L01010000/Client-Server-Application-with-Websockets/blob/main/poc.png" width="800px" />
 
 ---
 
