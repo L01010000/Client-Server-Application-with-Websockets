@@ -25,3 +25,5 @@ This project sets up a WebSocket server on a Raspberry Pi that allows multiple c
 - Python 3.x
 - `websockets` library (`pip install websockets`)
 - `colorama` library (`pip install colorama`)
+
+## Enjoy
