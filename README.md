@@ -1,12 +1,9 @@
 # WebSocket Server Application
 
-<img src="https://github.com/L01010000/Client-Server-Application-with-Websockets/blob/main/poc.png" width="800px" />
-
----
-
-## Description
 
 This project sets up a WebSocket server on a Raspberry Pi that allows multiple clients to connect and exchange messages.
+
+<img src="https://github.com/L01010000/Client-Server-Application-with-Websockets/blob/main/poc.png" width="800px" />
 
 ---
 
@@ -29,6 +26,9 @@ sends an error message indicating a format issue back to the sender.
 
 Monitors for client disconnection events.
 Removes disconnected clients from the connected_clients set and logs the event with a timestamp and client address.
+
+---
+
 
 ## Key Features
 
